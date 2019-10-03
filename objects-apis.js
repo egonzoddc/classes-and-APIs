@@ -6,7 +6,7 @@ let dog = {
 	name: "Steve",
 	color: "brown",
 	breed: "pug",
-	size: "Small"
+	size: "Small",
 	bark: function(typeOfBark) {
 		console.log("Bark!");
 	}
